@@ -1,0 +1,29 @@
+
+img{
+    border-radius: 20px;
+    
+}
+.login{
+    margin-top:7%;
+    margin-left:31%;
+    position:absolute;
+}
+h1{
+    color:blue;
+    margin-left:31%;
+    position: relative;
+}
+Button >.MuiSvgIcon-root
+{
+    color:white;
+    background-color: blue;
+    margin-right:3px;
+}
+.button{
+    margin-left:31% !important;
+    position: relative !important;
+    border: 2px solid black !important;
+    color: black !important;
+    font-weight: 900 !important;
+    border-radius:10px solid black !important;
+}
